@@ -7,3 +7,6 @@ transformers
 langchain-huggingface
 torch
 PyMuPDF
+google-adk
+google-cloud-storage
+google-adk[agent-identity]
