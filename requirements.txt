@@ -1,0 +1,12 @@
+ipykernel
+python-dotenv
+langchain
+langgraph
+langchain-google-genai
+transformers
+langchain-huggingface
+torch
+PyMuPDF
+google-adk
+google-cloud-storage
+google-adk[agent-identity]
