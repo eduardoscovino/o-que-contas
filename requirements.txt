@@ -1,0 +1,16 @@
+ipykernel
+python-dotenv
+langchain
+langgraph
+langchain-google-genai
+transformers
+langchain-huggingface
+torch
+PyMuPDF
+google-cloud-storage
+google-auth
+google-genai
+google-adk[agent-identity,mcp,a2a]
+google-cloud-aiplatform[agent_engines,adk]>=1.112.0
+requests
+pandas
