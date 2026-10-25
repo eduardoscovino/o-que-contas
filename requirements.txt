@@ -14,3 +14,5 @@ google-adk[agent-identity,mcp,a2a]
 google-cloud-aiplatform[agent_engines,adk]>=1.112.0
 requests
 pandas
+anthropic
+langchain-anthropic
